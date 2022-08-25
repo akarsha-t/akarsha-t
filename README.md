@@ -2,6 +2,7 @@
 
 
 <br>
+
 - 🥳 I'm currently building my problem solving, interview, and communication skills through:
 - 🤩 Currently I'm a mentee at [Cajigo] (http://www.structur3dpeople.co.uk/cajigo/)
 - 🔭 I’m currently working on my technical and problem solving skills
